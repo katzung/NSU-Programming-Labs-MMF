@@ -1,0 +1,3 @@
+C:/Users/romag/CLionProjects/OOP4/cmake-build-debug/CMakeFiles/OOP4.dir
+C:/Users/romag/CLionProjects/OOP4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/romag/CLionProjects/OOP4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

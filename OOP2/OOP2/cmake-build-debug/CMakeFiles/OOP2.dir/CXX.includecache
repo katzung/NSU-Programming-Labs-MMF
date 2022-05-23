@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/romag/CLionProjects/OOP2/Animal.cpp
+Animal.h
+C:/Users/romag/CLionProjects/OOP2/Animal.h
+
+C:/Users/romag/CLionProjects/OOP2/Animal.h
+iostream
+-
+Simulation.h
+C:/Users/romag/CLionProjects/OOP2/Simulation.h
+
+C:/Users/romag/CLionProjects/OOP2/Simulation.cpp
+Simulation.h
+C:/Users/romag/CLionProjects/OOP2/Simulation.h
+
+C:/Users/romag/CLionProjects/OOP2/Simulation.h
+iostream
+-
+vector
+-
+Animal.h
+C:/Users/romag/CLionProjects/OOP2/Animal.h
+
+C:/Users/romag/CLionProjects/OOP2/main.cpp
+Simulation.h
+C:/Users/romag/CLionProjects/OOP2/Simulation.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/romag/CLionProjects/OOP4/FiniteStateMachine.h
+vector
+-
+fstream
+-
+map
+-
+algorithm
+-
+iostream
+-
+cmath
+-
+
+C:/Users/romag/CLionProjects/OOP4/main.cpp
+FiniteStateMachine.h
+C:/Users/romag/CLionProjects/OOP4/FiniteStateMachine.h
+

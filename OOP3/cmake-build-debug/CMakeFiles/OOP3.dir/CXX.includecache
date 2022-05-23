@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/romag/CLionProjects/OOP3/HashMap.h
+vector
+-
+
+C:/Users/romag/CLionProjects/OOP3/Matrix.h
+vector
+-
+fstream
+-
+cmath
+-
+
+C:/Users/romag/CLionProjects/OOP3/main.cpp
+iostream
+-
+HashMap.h
+C:/Users/romag/CLionProjects/OOP3/HashMap.h
+Matrix.h
+C:/Users/romag/CLionProjects/OOP3/Matrix.h
+
